@@ -1,7 +1,7 @@
 
 
-## My name is   Michael douglas and I'm a developer fullstack Java Jr🤯👽
-#### Seja Bem-vindo ao meu cantinho 
+## My name is Michael douglas and I'm a developer fullstack Java Jr🤯👽
+ 
 <!-- painel de nota-->
  <div>
   <a href="https://github.com/michael0douglas">
